@@ -1,6 +1,6 @@
-# 🍽️ Grub Guru Bot
+# 🍽️ AIeistein Project
 
-An AI-powered restaurant recommendation and ordering system built for the OpenAI x NxtWave Hackathon. Grub Guru Bot uses artificial intelligence to provide personalized restaurant recommendations, menu suggestions, and seamless ordering experiences.
+An AI-powered restaurant recommendation and ordering system built for the OpenAI x NxtWave Hackathon. AIeistein Project uses artificial intelligence to provide personalized restaurant recommendations, menu suggestions, and seamless ordering experiences.
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ An AI-powered restaurant recommendation and ordering system built for the OpenAI
 ## 🏗️ Architecture
 
 ```
-grub-guru-bot/
+aieistein-project/
 ├── src/                    # Frontend (React + TypeScript)
 │   ├── components/         # Reusable UI components
 │   ├── pages/             # Main application pages
@@ -46,12 +46,12 @@ grub-guru-bot/
 - Node.js (v16 or higher)
 - npm or yarn
 - Supabase account
-- Hugging Face API key (optional)
+- Hugging Face API key
 
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd grub-guru-bot
+cd aieistein-project
 ```
 
 ### 2. Install Dependencies
@@ -263,10 +263,6 @@ curl -X POST http://localhost:4000/api/generate \
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🏆 Hackathon Details
 
 Built for the **OpenAI x NxtWave Hackathon** with the following focus areas:
@@ -277,7 +273,7 @@ Built for the **OpenAI x NxtWave Hackathon** with the following focus areas:
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, email tanishq.swami23@vit.edu or create an issue in the repository.
 
 ---
 
